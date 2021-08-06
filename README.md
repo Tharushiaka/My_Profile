@@ -23,7 +23,6 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharushiaka&show_icons=true&locale=en" alt="tharushiaka" /></p>
  
 </details>
