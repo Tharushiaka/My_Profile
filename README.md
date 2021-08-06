@@ -1,6 +1,6 @@
 ### Hello World, I'm Tharushika  👋
 
- <img align="right" alt="GIF" src=coder.gif width="500" height="320" />
+ <img align="right" alt="GIF" src=coder.gif width="500" height="350" />
 
 
 ## I'm a student, Developer, and Creator !!
