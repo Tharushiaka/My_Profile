@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src=coder.gif width="500" height="330" />
 
 
-## I'm a student, Developer, and Creator !!
+## I'm a student, Developer and Creator !!
 
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning React Native and Azure
