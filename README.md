@@ -22,13 +22,13 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharushiaka&show_icons=true&locale=en" alt="tharushiaka" /></p>
  
 </details>
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary>Most Used Languages</summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharushiaka&show_icons=true&locale=en&layout=compact" alt="tharushiaka" /></p>
 
 </details>
