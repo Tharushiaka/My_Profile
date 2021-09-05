@@ -29,8 +29,7 @@
 
 <details>
   <summary>:zap: Waketime Stats</summary>
-<p><img align="left" src="[![Tharushiaka 's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-" alt="tharushiaka" /></p>
+<p>[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 </details>
 <details>
