@@ -28,11 +28,6 @@
 </details>
 
 <details>
-  <summary>:zap: Waketime Stats</summary>
-[![Tharushiaka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
-<details>
   <summary>:zap: Most Used Languages</summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharushiaka&show_icons=true&locale=en&layout=compact" alt="tharushiaka" /></p>
 
